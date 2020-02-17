@@ -1,0 +1,24 @@
+html {
+    font-size: 10px;
+  }
+  .container {
+    /* font: italic 900 1.5rem Arial, Georgia, Times, "Times New Roman", serif; */
+    /* 단축표기법으로도 기재 가능 */
+    font-style: italic;
+    font-weight: 900;
+    font-family: Arial, Georgia, Times, "Times New Roman", serif;
+    font-size: 1.5rem; /* root em */
+  }
+  p {
+    color: #ffffff;
+    background-color: red;
+    /* font-size: 1.5em */
+    /* 부모 요소를 기준으로 상대적으로 적용 */
+    text-align: center;
+    line-height: 1.5rem;
+  }
+  li {
+    font-size: 1.5rem;
+    color: rgba(0, 0, 0, 0.5);
+  }
+  
