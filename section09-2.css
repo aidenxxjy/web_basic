@@ -1,0 +1,29 @@
+.container{
+	background-color: #0c4b33;
+	color: #fff;
+	position: relative;
+}
+.container2{
+	width: 200px;
+	height: 200px;
+	background: pink;
+/* 	position: relative; */
+}
+img{
+	position: absolute;
+	top: 0;
+	left: 0;
+/* 	position: fixed;
+	bottom: 0;
+	right: 0; */
+}
+li{
+	display: inline-block;
+	width: 100px;
+}
+a{
+	color: skyblue;
+}
+em{
+	display: inline;
+}
