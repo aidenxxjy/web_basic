@@ -1,0 +1,15 @@
+.column1{
+	float: left;
+	width: 30%
+}
+.column2{
+	float: left;
+	width: 30%;
+}
+.column3{
+	float: left;
+	width: 30%;
+}
+.footer{
+	clear: both;
+}
